@@ -1,3 +1,4 @@
+
 const includes = {
 	"html": {
 		"font-family": "sans-serif",
@@ -642,7 +643,7 @@ const includes = {
 		"padding": ".1rem .2rem"
 	},
 	".form-select:not([multiple]):not([size])": {
-		"background": "#fff url('data': 'image/svg+xml', charset=utf8,%3Csvg%20xmlns='http': '//www.w3.org/2000/svg' % 20 viewBox = '0%200%204%205' % 3 E % 3 Cpath % 20 fill = '%23667189' % 20 d = 'M2%200L0%202h4zm0%205L0%203h4z' / % 3 E % 3 C / svg % 3 E ') no-repeat right .35rem center/.4rem .5rem",
+		"background": "#fff url('data:image/svg+xml,charset=utf8,%3Csvg%20xmlns=%27http%27%3A+%27%2F%2Fwww.w3.org%2F2000%2Fsvg%27+%25+20+viewBox+%3D+%270%25200%25204%25205%27+%25+3+E+%25+3+Cpath+%25+20+fill+%3D+%27%2523667189%27+%25+20+d+%3D+%27M2%25200L0%25202h4zm0%25205L0%25203h4z%27+%2F+%25+3+E+%25+3+C+%2F+svg+%25+3+E') no-repeat right .35rem center/.4rem .5rem",
 		"padding-right": "1.2rem"
 	},
 	".has-icon-left,.has-icon-right": {
