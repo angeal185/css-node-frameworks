@@ -10,3 +10,4 @@
 #### [bulma v0.9.0](https://github.com/angeal185/css-node-frameworks/bulma)
 #### [milligram v1.4.1](https://github.com/angeal185/css-node-frameworks/milligram)
 #### [pure v2.0.3](https://github.com/angeal185/css-node-frameworks/pure)
+#### [picnic v6.5.0](https://github.com/angeal185/css-node-frameworks/picnic)
